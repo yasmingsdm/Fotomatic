@@ -1,4 +1,4 @@
-# Fotomatic - NOT READY YET
+# Fotomatic
 
 This project is a Code Academy project where I fized a broken version of a responsive design website on my own computer using a design spec.
 
@@ -11,4 +11,4 @@ What I've practiced/learned:
 
 
 
-You can check the project ready [here]()
+You can check the project ready [here](https://yasmingsdm.github.io/Fotomatic/)
