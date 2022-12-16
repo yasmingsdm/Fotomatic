@@ -34,14 +34,9 @@ html {
   }
 }
 
-a{
-  text-decoration: none;
-}
-
 /* Header */
 
 header {
-  position: fixed;
   width: 100%;
   border-bottom: solid 1px #c6c1c1;
   background-color: white;
@@ -59,6 +54,7 @@ header .logo {
   flex: 1;
   margin-left: 30px;
   font-size: 24px;
+  text-decoration: none;
 }
 
 header nav ul {
@@ -78,6 +74,7 @@ nav a {
   line-height: 1.6;
   font-size: 1rem;
   color: #4a4a4a;
+  text-decoration: none;
 }
 
 header .icon {
@@ -408,7 +405,7 @@ footer .copyright {
   flex-grow: 1;
 }
 
-@media only screen and (min-width: 760px) {
+@media only screen and (max-width: 760px) {
   footer .content {
     font-size: .625rem;
   }
